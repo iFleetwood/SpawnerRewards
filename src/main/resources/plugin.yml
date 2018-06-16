@@ -1,0 +1,3 @@
+name: SpawnerRewards
+version: ${project.version}
+main: me.marcus.spawnerrewards.SpawnerRewards

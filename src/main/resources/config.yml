@@ -1,0 +1,16 @@
+#Chance is in percentage
+#Example if you do CHANCE: 1 it will be 1 out of a 100
+
+FISHING_PERMISSION: "FishSpawner.allow"
+MINING_PERMISSION: "MineSpawner.allow"
+
+RECEIVED_SPAWNER_MESSAGE: "&eYou received a spawner by %type%" #%type% either being mining or fishing
+
+CHANCE_FISHING: 10
+CHANCE_MINING: 1
+
+MOB_SPAWNER: "COW"
+
+MINING_BLOCKS:
+- DIAMOND_ORE
+- IRON_ORE
